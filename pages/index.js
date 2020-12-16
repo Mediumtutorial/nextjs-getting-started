@@ -1,5 +1,5 @@
 import axios from 'axios'
-import Card from '../components/card/card'
+import Card from '../components/card/Card'
 import Button from '../components/Button'
 
 export default function Home(props) {
